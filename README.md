@@ -10,7 +10,7 @@ transsly.findOne({admin: "Florssly"}, async (hata, data) => {
     if(!data){
   
 const config = {
-  languages: ["JavaScript", "Java", "Python", "HTML", "EJS", "PHP", "CSS"]
+  languages: ["JavaScript", "Java", "Python", "HTML", "CSS"]
 }
 
 
