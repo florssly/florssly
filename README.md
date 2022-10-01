@@ -1,5 +1,5 @@
 <h1 align="center"> </🌼Florssly>  
-<img src="[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=500&color=08F720&width=500&lines=%F0%9F%8C%BCDestek+%26+%C4%B0leti%C5%9Fim+%C4%B0%C3%A7in+%3AFlorssly+%CE%A8%231935)](https://git.io/typing-svg)" alt="Florssly Was Here" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&duration=2500&pause=500&color=14FF00&width=530&lines=🌼+Destek+%26+İletişim+İçin%3A+Florssly%20Ψ%231935" alt="Florssly Was Here" />
 </h1>
 <p align="center">
  <a href="https://discord.com/users/1020002653389987851" target"blank_"><img src="https://img.shields.io/badge/Discord%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
