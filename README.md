@@ -21,7 +21,7 @@
 
 
 - Just Florssly Nothing Else
-- 6 - 1 = Florssly
+- ❤️ Florssly
 
 
 <h3>🌼 Profile Stats</h3>
