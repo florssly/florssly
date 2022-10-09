@@ -1,5 +1,5 @@
 <h1 align="center"> </🌼Florssly>  
-<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&duration=2500&pause=500&color=14FF00&width=530&lines=🌼+Destek+%26+İletişim+İçin%3A+Florssly%20Ψ%231935" alt="Florssly Was Here" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&duration=2500&pause=500&color=14FF00&width=530&lines=🌼+Destek+%26+İletişim+İçin%3A+Flor%20Ψ%231935" alt="Flor Was Here" />
 </h1>
 <p align="center">
  <a href="https://discord.com/users/1020002653389987851" target"blank_"><img src="https://img.shields.io/badge/Discord%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
@@ -17,11 +17,11 @@
  <img align="left" alt="Florssly" width="26px" src="https://cdn.discordapp.com/emojis/705705522522750988.png?size=96" />
 </br>
 
-<h2 align="center">Who İs Florssly? <img src="https://cdn.discordapp.com/emojis/903736036725760020.gif?size=96" width="30px"> </h2>
+<h2 align="center">Who İs Flor? <img src="https://cdn.discordapp.com/emojis/903736036725760020.gif?size=96" width="30px"> </h2>
 
 
 - Just Florssly Nothing Else
-- ❤️ Florssly
+- ❤️ Flor
 
 
 <h3>🌼 Profile Stats</h3>
