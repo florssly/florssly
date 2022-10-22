@@ -1,5 +1,5 @@
 <h1 align="center"> </🌼Florssly>  
-<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&duration=2500&pause=500&color=14FF00&width=530&lines=🌼+Destek+%26+İletişim+İçin%3A+Flor%20Ψ%231935" alt="Flor Was Here" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&duration=2500&pause=500&color=14FF00&width=530&lines=🌼+Destek+%26+İletişim+İçin%3A+Flor%20Ψ%231423" alt="Flor Was Here" />
 </h1>
 <p align="center">
  <a href="https://discord.com/users/1020002653389987851" target"blank_"><img src="https://img.shields.io/badge/Discord%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
