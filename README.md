@@ -1,13 +1,6 @@
 
 
-<h2 align="center">Who İs Flor? <img src="https://cdn.discordapp.com/emojis/903736036725760020.gif?size=96" width="30px"> </h2>
-
-
-- Just Florssly Nothing Else
-- ❤️ Flor
-
-
-<h3>🌼 Profile Stats</h3>
+<h3>❤️ Profile Stats</h3>
 <img src="https://komarev.com/ghpvc/?username=florssly&label=Ziyaretçi%20Sayısı&color=552b75" alt="florxdd" />
 <img alt="followers" title="Github'dan Takip Et" src="https://img.shields.io/github/followers/florxdd?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=follower"/></a>
 
